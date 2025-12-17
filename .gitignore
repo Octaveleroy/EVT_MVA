@@ -1,0 +1,12 @@
+# Dossiers lourds à ignorer
+checkpoints/
+experiments/
+outputs/
+runs/
+scripts/checkpoints/
+scripts/outputs/
+scripts/runs/
+
+# Fichiers caches Python (très important !)
+__pycache__/
+*.pyc
